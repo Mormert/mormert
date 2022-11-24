@@ -1,15 +1,12 @@
-# ⭐ Welcome To Johan Lind's GitHub Page ⭐
-I am also sometimes referred to as 'Mormert'.
+# Welcome To My GitHub Page
+My name is Johan, sometimes referred to as 'Mormert'. I like game & engine development, real time rendering and a bunch of other fun stuff!
 
 [![Mormert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mormert&theme=dracula&show_icons=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-## My long-term game & engine project ⚔️
+## C++ Cross-Platform Game Engine Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mormert&repo=hexablo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-## I have my old-school preferences of languages 😎
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mormert&langs_count=3&theme=dracula&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+The engine 'jle' powers a multiplayer retro-ARPG, but the engine itself is open source. <br>
+https://github.com/Mormert/jle
 
 ## Contact
 
