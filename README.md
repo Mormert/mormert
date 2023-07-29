@@ -1,12 +1,11 @@
-# Welcome To My GitHub Page
-My name is Johan, sometimes referred to as 'Mormert'. I like game & engine development, real time rendering and a bunch of other fun stuff!
+# Johan Lind (Mormert) :boom:
+I like game & engine development, real time rendering and a bunch of other fun stuff! :octocat:
 
-[![Mormert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mormert&theme=dracula&show_icons=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+## C++ Cross-Platform 3D Game Engine Project
 
-## C++ Cross-Platform Game Engine Project
+The engine [_jle_](https://github.com/mormert/jle) powers one of my unannounced games, but the engine itself is made open source. <br>
 
-The engine 'jle' powers a multiplayer retro-ARPG, but the engine itself is open source. <br>
-https://github.com/Mormert/jle
+<img src="https://mormert.com/jle-media/jle-screengrab.png" alt="drawing" width=70%/>
 
 ## Contact
 
